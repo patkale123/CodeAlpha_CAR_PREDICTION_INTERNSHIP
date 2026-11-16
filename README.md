@@ -169,3 +169,7 @@ selling price from the trained regression pipeline.
 
 *This project is developed for learning and demonstrating a
 machine-learning regression workflow.*
+
+#Run Command
+carenv\Scripts\activate
+python -m streamlit run app.py
